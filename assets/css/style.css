@@ -211,7 +211,7 @@ body.nav-active { overflow: hidden; }
 
 .btn-primary,
 .btn-secondary:is(:hover, :focus-visible) {
-  background-color: var(--cinnamon-satin);
+  background-color: #FF6B00;
   color: var(--white);
 }
 
@@ -514,7 +514,7 @@ body.nav-active { overflow: hidden; }
 .contact { padding-block-end: 0; }
 
 .contact-card {
-  background-color: var(--snow);
+  background-color: #f7eae0;
   padding: 32px;
   border-radius: var(--radius-8);
   display: grid;
@@ -730,7 +730,7 @@ textarea.input-field {
     transition: var(--transition-1);
   }
 
-  .navbar-link:is(:hover, :focus-visible) { color: var(--cinnamon-satin); }
+  .navbar-link:is(:hover, :focus-visible) { color: #ff9244; }
 
   .navbar .social-link {
     color: var(--charcoal);

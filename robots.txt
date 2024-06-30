@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /assets/images/tunahan-cengiz-1.jpg
+Allow: /assets/images/tunahan-cengiz-2.jpg
+Allow: /assets/images/tunahan-cengiz-3.jpg
